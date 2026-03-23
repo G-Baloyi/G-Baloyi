@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Goitsemang Baloyi
 
-<!--
-**G-Baloyi/G-Baloyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Bachelor of Computing Student at Belgium Campus ITversity  
+ Aspiring Data Scientist | Machine Learning Engineer  
+ Passionate about data, analytics, and solving real-world problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- SQL (SQL Server)
+- Power BI
+- Excel
+- Java, C#, JavaScript, HTML, CSS
+
+---
+
+## Projects
+
+- Campaign Performance Analysis (Excel)
+- SQL Database Systems
+- C# Hospital Management System
+
+---
+
+## Connect With Me
+- LinkedIn: linkedin.com/in/goitsemang-baloyi
+
+---
+
+ Always open to internship opportunities in Data Science, Machine Learning, and Business Intelligence!
