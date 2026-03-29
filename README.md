@@ -1,25 +1,37 @@
 # Hi, I'm Goitsemang Baloyi
 
- Bachelor of Computing Student at Belgium Campus ITversity  
- Aspiring Data Scientist | Machine Learning Engineer  
- Passionate about data, analytics, and solving real-world problems  
+Third-year Bachelor of Computing student at Belgium Campus ITversity  
+Specializing in Business Intelligence & Data Science  
+Passionate about Machine Learning, Data Analytics, and Financial Data Insights  
 
 ---
 
-## Tech Stack
-- Python
-- SQL (SQL Server)
-- Power BI
-- Excel
-- Java, C#, JavaScript, HTML, CSS
+## About Me
+
+I am an aspiring Data Scientist and Machine Learning Engineer with a strong interest in using data to solve real-world problems and support strategic decision-making.
+
+I have experience building end-to-end data solutions, including:
+- Machine learning models
+- Data analysis and visualization
+- Relational database systems
+- Financial and risk analytics
 
 ---
 
-## Projects
+## Skills & Technologies
 
-- Campaign Performance Analysis (Excel)
-- SQL Database Systems
-- C# Hospital Management System
+### Programming: 
+Python | SQL | JavaScript | C# | HTML/CSS
+
+### Data & Machine Learning:  
+Data Analysis | Data Visualization | Feature Engineering  
+Machine Learning (Supervised & Unsupervised) | Scikit-learn  
+
+### Data Engineering & Databases:
+Database Design | Data Normalization (3NF) | Data Warehousing | Query Optimization  
+
+### Tools & Technologies: 
+Power BI | Tableau | Excel | GitHub | Jupyter Notebook  
 
 ---
 
@@ -28,4 +40,4 @@
 
 ---
 
- Always open to internship opportunities in Data Science, Machine Learning, and Business Intelligence!
+ #### Always open to collaboration, learning opportunities, and building meaningful data-driven solutions.
