@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Goitsemang Baloyi 👋</h1>
+<h1 align="center">Hi, I'm Goitsemang Baloyi </h1>
 
 <p align="center">
   <b>Aspiring Data Scientist & ML Engineer</b><br/>
@@ -12,11 +12,11 @@
 
 I am an aspiring **Data Scientist** and **Machine Learning Engineer** with a strong interest in using data to solve real-world problems and support strategic decision-making. I build end-to-end data solutions — from wrangling raw datasets and engineering features, to training ML models and delivering insights through polished dashboards.
 
-I'm particularly excited about the intersection of **finance and machine learning**.
+I believe data is the new oil – but only if you refine it with the right tools and curiosity.
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Languages**
 
@@ -47,7 +47,7 @@ I'm particularly excited about the intersection of **finance and machine learnin
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -105,6 +105,7 @@ Excel pivot analysis of 501 customer interactions across 3 channels, identifying
 </td>
 </tr>
 </table>
+
 ---
 
 ## Connect With Me
@@ -112,9 +113,8 @@ Excel pivot analysis of 501 customer interactions across 3 channels, identifying
 <p align="center">
   <a href="https://linkedin.com/in/goitsemang-baloyi"><img src="https://img.shields.io/badge/LinkedIn-goitsemang--baloyi-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:goitsemangflorence@gmail.com"><img src="https://img.shields.io/badge/Email-goitsemangflorence@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/goitsemang-baloyi"><img src="https://img.shields.io/badge/GitHub-g--baloyi-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 **Open to:** Collaboration · Learning opportunities · Data-driven problem solving
 
----
+
