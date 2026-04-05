@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Goitsemang Baloyi </h1>
+<h1 align="center">Hi, I'm Goitsemang Baloyi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="50" height="50"> </h1>
 
 <p align="center">
   <b>Aspiring Data Scientist & ML Engineer</b><br/>
