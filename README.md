@@ -115,6 +115,7 @@ Excel pivot analysis of 501 customer interactions across 3 channels, identifying
   <a href="mailto:goitsemangflorence@gmail.com"><img src="https://img.shields.io/badge/Email-goitsemangflorence@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
-**Open to:** Collaboration · Learning opportunities · Data-driven problem solving
+Always open to collaboration, learning opportunities, and building meaningful data-driven solutions.
+
 
 
