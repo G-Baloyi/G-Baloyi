@@ -118,4 +118,10 @@ Excel pivot analysis of 501 customer interactions across 3 channels, identifying
 Always open to collaboration, learning opportunities, and building meaningful data-driven solutions.
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g-baloyi/g-baloyi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g-baloyi/g-baloyi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/g-baloyi/g-baloyi/output/pacman-contribution-graph.svg">
+</picture>
+
 
