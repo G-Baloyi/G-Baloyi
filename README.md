@@ -49,61 +49,65 @@ I believe data is the new oil – but only if you refine it with the right tools
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Bank Customer Churn & CLV Prediction
-Ensemble ML pipeline predicting churn and customer lifetime value across 50k+ records, with SHAP explainability.
-
-`Python` `Scikit-learn` `SHAP` `Plotly` `KMeans`
-
-</td>
-<td width="50%" valign="top">
-
-### Credit Risk & Financial Behavior Analysis
-Tableau dashboards combining credit demographics and transaction data to identify risk drivers and segment customers.
-
-`Tableau` `Excel` `Feature Engineering` `Risk Analytics`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Comparative Stock Dashboard *(In Progress)*
-Power BI dashboard visualizing 3 years of stock trends, trading volume, and volatility for Amazon and JPMorgan.
-
-`Power BI` `DAX` `Financial Data` `Visual Storytelling`
-
-</td>
-<td width="50%" valign="top">
-
-### Hospital Record Management System
-Secure C# console app with OOP design, AES encryption, RBAC, and custom threading for hospital operations.
-
-`C#` `.NET` `AES Encryption` `RBAC` `OOP`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Soyez Jolie Salon Database System
-Relational SQL Server database in 3NF with stored procedures, triggers, and audit logging for a Johannesburg salon.
-
-`SQL Server` `T-SQL` `3NF` `Stored Procedures` `Triggers`
-
-</td>
-<td width="50%" valign="top">
-
-### NewCo Campaign Performance Analysis
-Excel pivot analysis of 501 customer interactions across 3 channels, identifying the best campaign + channel combo.
-
-`Excel` `Pivot Tables` `Slicers` `PowerPoint`
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/G-Baloyi/Bank-Customer-churn-and-CLV-Prediction" target="_blank">
+        <strong>Bank Customer Churn & CLV Prediction</strong>
+      </a>
+      <br />
+      Ensemble ML pipeline predicting churn and customer lifetime value across 50k+ records, with SHAP explainability.
+      <br /><br />
+      <code>Python</code> <code>Scikit-learn</code> <code>SHAP</code> <code>Plotly</code> <code>KMeans</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/G-Baloyi/Customer-Credit-Risk-and-Financial-Behavior-Analysis" target="_blank">
+        <strong>Credit Risk & Financial Behavior Analysis</strong>
+      </a>
+      <br />
+      Tableau dashboards combining credit demographics and transaction data to identify risk drivers and segment customers.
+      <br /><br />
+      <code>Tableau</code> <code>Excel</code> <code>Feature Engineering</code> <code>Risk Analytics</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Comparative Stock Dashboard</strong> <em>(In Progress — link not available)</em>
+      <br />
+      Power BI dashboard visualizing 3 years of stock trends, trading volume, and volatility for Amazon and JPMorgan.
+      <br /><br />
+      <code>Power BI</code> <code>DAX</code> <code>Financial Data</code> <code>Visual Storytelling</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/G-Baloyi/Hospital-Management-System" target="_blank">
+        <strong>Hospital Record Management System</strong>
+      </a>
+      <br />
+      Secure C# console app with OOP design, AES encryption, RBAC, and custom threading for hospital operations.
+      <br /><br />
+      <code>C#</code> <code>.NET</code> <code>AES Encryption</code> <code>RBAC</code> <code>OOP</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/G-Baloyi/SoyezJolie-Database-System" target="_blank">
+        <strong>Soyez Jolie Salon Database System</strong>
+      </a>
+      <br />
+      Relational SQL Server database in 3NF with stored procedures, triggers, and audit logging for a Johannesburg salon.
+      <br /><br />
+      <code>SQL Server</code> <code>T-SQL</code> <code>3NF</code> <code>Stored Procedures</code> <code>Triggers</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/G-Baloyi/Campaign-Performance-Analysis" target="_blank">
+        <strong>NewCo Campaign Performance Analysis</strong>
+      </a>
+      <br />
+      Excel pivot analysis of 501 customer interactions across 3 channels, identifying the best campaign + channel combo.
+      <br /><br />
+      <code>Excel</code> <code>Pivot Tables</code> <code>Slicers</code> <code>PowerPoint</code>
+    </td>
+  </tr>
 </table>
 
 ---
