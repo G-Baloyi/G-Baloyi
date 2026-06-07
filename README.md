@@ -71,12 +71,16 @@ I believe data is the new oil – but only if you refine it with the right tools
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <strong>Comparative Stock Dashboard</strong> <em>(In Progress — link not available)</em>
+   <td width="50%" valign="top">
+      <a href="https://github.com/G-Baloyi/Bank-Transaction-Fraud-Detection-System" target="_blank">
+        <strong> Bank Transaction Fraud Detection System</strong>
+      </a>
       <br />
-      Power BI dashboard visualizing 3 years of stock trends, trading volume, and volatility for Amazon and JPMorgan.
+      Production-grade 6-stage ML pipeline on 200,000 transactions — EDA, feature engineering, 
+      model benchmarking, threshold optimisation, and SHAP explainability.
       <br /><br />
-      <code>Power BI</code> <code>DAX</code> <code>Financial Data</code> <code>Visual Storytelling</code>
+      <code>Python</code> <code>XGBoost</code> <code>SHAP</code> <code>SMOTE</code> 
+      <code>Scikit-Learn</code> <code>Pandas</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/G-Baloyi/Hospital-Management-System" target="_blank">
