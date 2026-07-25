@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/goitsemang-baloyi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:goitsemangflorence@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://g-baloyi.github.io/Goitsemang-Baloyi-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-14D4DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://g-baloyi.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-14D4DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
