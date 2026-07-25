@@ -1,9 +1,25 @@
-<h1 align="center">Hi, I'm Goitsemang Baloyi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="50" height="50"> </h1>
+<h1 align="center">Hi, I'm Goitsemang Baloyi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40"/> </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=14D4DA&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+%26+ML+Engineer;Third-year+Bachelor+of+Computing;Specializing+in+BI+%26+Data+Science" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <b>Aspiring Data Scientist & ML Engineer</b><br/>
   Third-year Bachelor of Computing · Belgium Campus ITversity<br/>
   Specializing in Business Intelligence & Data Science
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/goitsemang-baloyi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:goitsemangflorence@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/G-Baloyi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://g-baloyi.github.io/Goitsemang-Baloyi-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-14D4DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=G-Baloyi&label=Profile%20Views&color=14D4DA&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20WIL%2FInternship-3DDC84?style=flat" alt="Status"/>
 </p>
 
 ---
@@ -12,7 +28,7 @@
 
 I am an aspiring **Data Scientist** and **Machine Learning Engineer** with a strong interest in using data to solve real-world problems and support strategic decision-making. I build end-to-end data solutions — from wrangling raw datasets and engineering features, to training ML models and delivering insights through polished dashboards.
 
-I believe data is the new oil – but only if you refine it with the right tools and curiosity.
+> 💡 *"Data is the new oil – but only if you refine it with the right tools and curiosity."*
 
 ---
 
@@ -30,6 +46,7 @@ I believe data is the new oil – but only if you refine it with the right tools
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=flat&logo=xgboost&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-555?style=flat)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-21918c?style=flat)
 
@@ -103,16 +120,27 @@ I believe data is the new oil – but only if you refine it with the right tools
       <code>SQL Server</code> <code>T-SQL</code> <code>3NF</code> <code>Stored Procedures</code> <code>Triggers</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/G-Baloyi/Campaign-Performance-Analysis" target="_blank">
-        <strong>NewCo Campaign Performance Analysis</strong>
+      <a href="https://github.com/G-Baloyi/Superstore_Sales_Forecast" target="_blank">
+        <strong>Superstore Sales Forecasting</strong>
       </a>
       <br />
-      Excel pivot analysis of 501 customer interactions across 3 channels, identifying the best campaign + channel combo.
+      Time-series forecasting with 8 engineered features — lag variables, rolling averages, cyclic month encoding.
       <br /><br />
-      <code>Excel</code> <code>Pivot Tables</code> <code>Slicers</code> <code>PowerPoint</code>
+      <code>Python</code> <code>Time-Series</code> <code>Random Forest</code> <code>Feature Engineering</code>
     </td>
   </tr>
 </table>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G-Baloyi&theme=radical&hide_border=true&background=0D1117&stroke=14D4DA&ring=14D4DA&fire=14D4DA&currStreakLabel=14D4DA" alt="GitHub Streak" width="48%"/>
+</p>
+
+
 
 ---
 
@@ -125,11 +153,10 @@ I believe data is the new oil – but only if you refine it with the right tools
 
 Always open to collaboration, learning opportunities, and building meaningful data-driven solutions.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/G-Baloyi/G-Baloyi/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%"/>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g-baloyi/g-baloyi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g-baloyi/g-baloyi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/g-baloyi/g-baloyi/output/pacman-contribution-graph.svg">
-</picture>
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14D4DA&height=100&section=footer"/>
+</p>
