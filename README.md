@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/goitsemang-baloyi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:goitsemangflorence@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/G-Baloyi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://g-baloyi.github.io/Goitsemang-Baloyi-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-14D4DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -99,14 +98,15 @@ I am an aspiring **Data Scientist** and **Machine Learning Engineer** with a str
       <code>Python</code> <code>XGBoost</code> <code>SHAP</code> <code>SMOTE</code> 
       <code>Scikit-Learn</code> <code>Pandas</code>
     </td>
+</td>
     <td width="50%" valign="top">
-      <a href="https://github.com/G-Baloyi/Hospital-Management-System" target="_blank">
-        <strong>Hospital Record Management System</strong>
+      <a href="https://github.com/G-Baloyi/Superstore_Sales_Forecast" target="_blank">
+        <strong>Superstore Sales Forecasting</strong>
       </a>
       <br />
-      Secure C# console app with OOP design, AES encryption, RBAC, and custom threading for hospital operations.
+      Time-series forecasting with 8 engineered features — lag variables, rolling averages, cyclic month encoding.
       <br /><br />
-      <code>C#</code> <code>.NET</code> <code>AES Encryption</code> <code>RBAC</code> <code>OOP</code>
+      <code>Python</code> <code>Time-Series</code> <code>Random Forest</code> <code>Feature Engineering</code>
     </td>
   </tr>
   <tr>
@@ -119,14 +119,15 @@ I am an aspiring **Data Scientist** and **Machine Learning Engineer** with a str
       <br /><br />
       <code>SQL Server</code> <code>T-SQL</code> <code>3NF</code> <code>Stored Procedures</code> <code>Triggers</code>
     </td>
+    </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/G-Baloyi/Superstore_Sales_Forecast" target="_blank">
-        <strong>Superstore Sales Forecasting</strong>
+      <a href="https://github.com/G-Baloyi/Campaign-Performance-Analysis" target="_blank">
+        <strong>NewCo Campaign Performance Analysis</strong>
       </a>
       <br />
-      Time-series forecasting with 8 engineered features — lag variables, rolling averages, cyclic month encoding.
+      Excel pivot analysis of 501 customer interactions across 3 channels, identifying the best campaign + channel combo.
       <br /><br />
-      <code>Python</code> <code>Time-Series</code> <code>Random Forest</code> <code>Feature Engineering</code>
+      <code>Excel</code> <code>Pivot Tables</code> <code>Slicers</code> <code>PowerPoint</code>
     </td>
   </tr>
 </table>
