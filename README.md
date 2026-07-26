@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/goitsemang-baloyi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:goitsemangflorence@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://g-baloyi.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-14D4DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/goitsemang-baloyi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:goitsemangflorence@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://g-baloyi.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-View_Site-14D4DA?style=flat&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -118,16 +118,11 @@ I am an aspiring **Data Scientist** and **Machine Learning Engineer** with a str
       Relational SQL Server database in 3NF with stored procedures, triggers, and audit logging for a Johannesburg salon.
       <br /><br />
       <code>SQL Server</code> <code>T-SQL</code> <code>3NF</code> <code>Stored Procedures</code> <code>Triggers</code>
-    </td>
-    </td>
+</td>
     <td width="50%" valign="top">
-      <a href="https://github.com/G-Baloyi/Campaign-Performance-Analysis" target="_blank">
-        <strong>NewCo Campaign Performance Analysis</strong>
-      </a>
-      <br />
-      Excel pivot analysis of 501 customer interactions across 3 channels, identifying the best campaign + channel combo.
-      <br /><br />
-      <code>Excel</code> <code>Pivot Tables</code> <code>Slicers</code> <code>PowerPoint</code>
+      <a href="https://g-baloyi.github.io/My_Portfolio/"><strong>Full Portfolio Site</strong></a><br/>
+      All five projects, full case studies, and my CV in one place — this is the best next click.<br/><br/>
+      <code>HTML/CSS</code> <code>JavaScript</code>
     </td>
   </tr>
 </table>
@@ -141,6 +136,9 @@ I am an aspiring **Data Scientist** and **Machine Learning Engineer** with a str
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=G-Baloyi&theme=radical&hide_border=true&background=0D1117&stroke=14D4DA&ring=14D4DA&fire=14D4DA&currStreakLabel=14D4DA" alt="GitHub Streak" width="48%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Baloyi&theme=react-dark&hide_border=true&bg_color=0D1B2E&color=C8C0B0&line=14D4DA&point=F0A500&area=true&area_color=0C9B9F" alt="Activity Graph" width="100%"/>
+</p>
 
 
 ---
