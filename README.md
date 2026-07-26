@@ -3,6 +3,8 @@
 </p>
 <h1 align="center">Hi, I'm Goitsemang Baloyi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40"/> </h1>
 
+<img src="https://ga-beacon.appspot.com/G-CR15LMXD4G/G-Baloyi/README?pixel" alt="" width="1" height="1" style="display:none;"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=14D4DA&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+%26+ML+Engineer;Third-year+Bachelor+of+Computing;Specializing+in+BI+%26+Data+Science" alt="Typing SVG" />
 </p>
