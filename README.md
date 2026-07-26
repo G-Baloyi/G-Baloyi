@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14D4DA&height=120&section=header"/>
+</p>
 <h1 align="center">Hi, I'm Goitsemang Baloyi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40"/> </h1>
 
 <p align="center">
