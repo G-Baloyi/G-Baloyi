@@ -136,10 +136,6 @@ I am an aspiring **Data Scientist** and **Machine Learning Engineer** with a str
 
 ## GitHub Analytics
 
-<p align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G-Baloyi&theme=radical&hide_border=true&background=0D1117&stroke=14D4DA&ring=14D4DA&fire=14D4DA&currStreakLabel=14D4DA" alt="GitHub Streak" width="48%"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Baloyi&theme=react-dark&hide_border=true&bg_color=0D1B2E&color=C8C0B0&line=14D4DA&point=F0A500&area=true&area_color=0C9B9F" alt="Activity Graph" width="100%"/>
