@@ -23,15 +23,6 @@
 
 I'm a **Bachelor of Computing (Integrated Honours)** student at **Belgium Campus iTversity** in Pretoria, majoring in **Data Science and Business Intelligence**. I take a project the whole way from raw data to a decision: cleaning and validating data, engineering features, training and **explaining** machine learning models, designing databases and presenting results in dashboards that non-technical people can use.
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><h3>71.7%</h3><sub>Weighted average</sub></td>
-    <td align="center" width="25%"><h3>7</h3><sub>Data and software projects</sub></td>
-    <td align="center" width="25%"><h3>8</h3><sub>People led as Project Lead</sub></td>
-    <td align="center" width="25%"><h3>200K</h3><sub>Transactions in my largest model</sub></td>
-  </tr>
-</table>
-
 ---
 
 ## 🧰 Tech stack
