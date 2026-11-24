@@ -42,23 +42,6 @@ I'm a **Bachelor of Computing (Integrated Honours)** student at **Belgium Campus
   <img src="https://img.shields.io/badge/SHAP-Explainable_AI-0B1F33?style=flat-square"/>
 </p>
 
-### How I work
-
-```mermaid
-flowchart LR
-    A[Raw data] --> B[Clean and validate]
-    B --> C[Engineer features]
-    C --> D[Train and compare models]
-    D --> E[Explain with SHAP]
-    E --> F[Dashboard and recommendation]
-    style A fill:#0B1F33,stroke:#2DD4BF,color:#F1F5F9
-    style B fill:#0B1F33,stroke:#2DD4BF,color:#F1F5F9
-    style C fill:#0B1F33,stroke:#2DD4BF,color:#F1F5F9
-    style D fill:#0B1F33,stroke:#2DD4BF,color:#F1F5F9
-    style E fill:#0B1F33,stroke:#2DD4BF,color:#F1F5F9
-    style F fill:#0F766E,stroke:#99F6E4,color:#F1F5F9
-```
-
 ---
 
 ## Featured projects
