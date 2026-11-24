@@ -1,162 +1,174 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14D4DA&height=120&section=header"/>
-</p>
-<h1 align="center">Hi, I'm Goitsemang Baloyi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40"/> </h1>
-
-<img src="https://ga-beacon.appspot.com/G-CR15LMXD4G/G-Baloyi/README?pixel" alt="" width="1" height="1" style="display:none;"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=14D4DA&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+%26+ML+Engineer;Third-year+Bachelor+of+Computing;Specializing+in+BI+%26+Data+Science" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,55:0E4A5C,100:0F766E&height=230&section=header&text=Goitsemang%20Baloyi&fontSize=54&fontColor=F1F5F9&fontAlignY=36&desc=Data%20Science%20%C2%B7%20Business%20Intelligence%20%C2%B7%20Machine%20Learning&descSize=18&descColor=99F6E4&descAlignY=58&animation=fadeIn" alt="Goitsemang Baloyi"/>
 </p>
 
 <p align="center">
-  <b>Aspiring Data Scientist & ML Engineer</b><br/>
-  Third-year Bachelor of Computing · Belgium Campus ITversity<br/>
-  Specializing in Business Intelligence & Data Science
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=2DD4BF&center=true&vCenter=true&width=640&height=40&lines=I+turn+raw+data+into+decisions;Machine+learning%2C+dashboards+and+databases%2C+end+to+end;Bachelor+of+Computing+%C2%B7+Data+Science+%26+BI;Open+to+internships+and+WIL+placements" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/goitsemang-baloyi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:goitsemangflorence@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://g-baloyi.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-View_Site-14D4DA?style=flat&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://g-baloyi.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-View_site-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/goitsemang-baloyi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:goitsemangflorence@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-0B1F33?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=G-Baloyi&label=Profile%20Views&color=14D4DA&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20WIL%2FInternship-3DDC84?style=flat" alt="Status"/>
+  <img src="https://img.shields.io/badge/Status-Available_for_internship_%2F_WIL-10B981?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=G-Baloyi&label=Profile+views&color=0F766E&style=flat-square"/>
 </p>
 
 ---
 
-## About Me
+## 👋 About me
 
-I am an aspiring **Data Scientist** and **Machine Learning Engineer** with a strong interest in using data to solve real-world problems and support strategic decision-making. I build end-to-end data solutions — from wrangling raw datasets and engineering features, to training ML models and delivering insights through polished dashboards.
+I'm a **Bachelor of Computing (Integrated Honours)** student at **Belgium Campus iTversity** in Pretoria, majoring in **Data Science and Business Intelligence**. I take a project the whole way from raw data to a decision: cleaning and validating data, engineering features, training and **explaining** machine learning models, designing databases and presenting results in dashboards that non-technical people can use.
 
-> 💡 *"Data is the new oil – but only if you refine it with the right tools and curiosity."*
-
----
-
-## Skills & Technologies
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-F29111?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
-
-**Data & Machine Learning**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=flat&logo=xgboost&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-555?style=flat)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-21918c?style=flat)
-
-**BI & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-**Databases & Engineering**
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-378ADD?style=flat)
-![3NF Design](https://img.shields.io/badge/Database_Design_(3NF)-0C447C?style=flat)
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><h3>71.7%</h3><sub>Weighted average</sub></td>
+    <td align="center" width="25%"><h3>7</h3><sub>Data and software projects</sub></td>
+    <td align="center" width="25%"><h3>8</h3><sub>People led as Project Lead</sub></td>
+    <td align="center" width="25%"><h3>200K</h3><sub>Transactions in my largest model</sub></td>
+  </tr>
+</table>
 
 ---
 
-## Featured Projects
+## 🧰 Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,cs,java,js,html,css,azure,git,github,vscode,pandas,numpy,sklearn&theme=dark&perline=14" alt="Languages and tools"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-0B1F33?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-0B1F33?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-0B1F33?style=flat-square&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/Excel-0B1F33?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-0B1F33?style=flat-square&logo=snowflake&logoColor=29B5E8"/>
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0B1F33?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-0B1F33?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHAP-Explainable_AI-0B1F33?style=flat-square"/>
+</p>
+
+### How I work
+
+```mermaid
+flowchart LR
+    A[Raw data] --> B[Clean and validate]
+    B --> C[Engineer features]
+    C --> D[Train and compare models]
+    D --> E[Explain with SHAP]
+    E --> F[Dashboard and recommendation]
+    style A fill:#0B1F33,stroke:#2DD4BF,color:#F1F5F9
+    style B fill:#0B1F33,stroke:#2DD4BF,color:#F1F5F9
+    style C fill:#0B1F33,stroke:#2DD4BF,color:#F1F5F9
+    style D fill:#0B1F33,stroke:#2DD4BF,color:#F1F5F9
+    style E fill:#0B1F33,stroke:#2DD4BF,color:#F1F5F9
+    style F fill:#0F766E,stroke:#99F6E4,color:#F1F5F9
+```
+
+---
+
+## 🚀 Featured projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/G-Baloyi/Bank-Customer-churn-and-CLV-Prediction" target="_blank">
-        <strong>Bank Customer Churn & CLV Prediction</strong>
-      </a>
-      <br />
-      Ensemble ML pipeline predicting churn and customer lifetime value across 50k+ records, with SHAP explainability.
-      <br /><br />
-      <code>Python</code> <code>Scikit-learn</code> <code>SHAP</code> <code>Plotly</code> <code>KMeans</code>
+      <a href="https://github.com/G-Baloyi/Bank-Transaction-Fraud-Detection-System"><b>🛡️ Bank Transaction Fraud Detection</b></a><br/>
+      Six-stage pipeline on 200,000 transactions: EDA, feature engineering, model benchmarking, threshold optimisation, SHAP explainability and a risk-scoring dashboard.<br/><br/>
+      <code>Python</code> <code>XGBoost</code> <code>SHAP</code> <code>SMOTE</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/G-Baloyi/Customer-Credit-Risk-and-Financial-Behavior-Analysis" target="_blank">
-        <strong>Credit Risk & Financial Behavior Analysis</strong>
-      </a>
-      <br />
-      Tableau dashboards combining credit demographics and transaction data to identify risk drivers and segment customers.
-      <br /><br />
-      <code>Tableau</code> <code>Excel</code> <code>Feature Engineering</code> <code>Risk Analytics</code>
-    </td>
-  </tr>
-  <tr>
-   <td width="50%" valign="top">
-      <a href="https://github.com/G-Baloyi/Bank-Transaction-Fraud-Detection-System" target="_blank">
-        <strong> Bank Transaction Fraud Detection System</strong>
-      </a>
-      <br />
-      Production-grade 6-stage ML pipeline on 200,000 transactions — EDA, feature engineering, 
-      model benchmarking, threshold optimisation, and SHAP explainability.
-      <br /><br />
-      <code>Python</code> <code>XGBoost</code> <code>SHAP</code> <code>SMOTE</code> 
-      <code>Scikit-Learn</code> <code>Pandas</code>
-    </td>
-</td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/G-Baloyi/Superstore_Sales_Forecast" target="_blank">
-        <strong>Superstore Sales Forecasting</strong>
-      </a>
-      <br />
-      Time-series forecasting with 8 engineered features — lag variables, rolling averages, cyclic month encoding.
-      <br /><br />
-      <code>Python</code> <code>Time-Series</code> <code>Random Forest</code> <code>Feature Engineering</code>
+      <a href="https://github.com/G-Baloyi/Bank-Customer-churn-and-CLV-Prediction"><b>📉 Customer Churn &amp; CLV Prediction</b></a><br/>
+      Predicts churn and customer lifetime value across 50,000 banking records and turns both into a retention priority matrix for the business.<br/><br/>
+      <code>Python</code> <code>Scikit-learn</code> <code>SHAP</code> <code>Plotly</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/G-Baloyi/SoyezJolie-Database-System" target="_blank">
-        <strong>Soyez Jolie Salon Database System</strong>
-      </a>
-      <br />
-      Relational SQL Server database in 3NF with stored procedures, triggers, and audit logging for a Johannesburg salon.
-      <br /><br />
-      <code>SQL Server</code> <code>T-SQL</code> <code>3NF</code> <code>Stored Procedures</code> <code>Triggers</code>
-</td>
+      <a href="https://github.com/G-Baloyi/Customer-Credit-Risk-and-Financial-Behavior-Analysis"><b>💳 Credit Risk &amp; Financial Behaviour</b></a><br/>
+      Joins demographic and transaction data for 1,000 customers and shows the drivers of default in interactive Tableau dashboards.<br/><br/>
+      <code>Tableau</code> <code>Excel</code> <code>SQL</code>
+    </td>
     <td width="50%" valign="top">
-      <a href="https://g-baloyi.github.io/My_Portfolio/"><strong>Full Portfolio Site</strong></a><br/>
-      All five projects, full case studies, and my CV in one place — this is the best next click.<br/><br/>
-      <code>HTML/CSS</code> <code>JavaScript</code>
+      <a href="https://github.com/G-Baloyi/Superstore_Sales_Forecast"><b>📈 Superstore Sales Forecasting</b></a><br/>
+      Monthly sales forecasting with lag, rolling and cyclic features, comparing Random Forest, Gradient Boosting and Linear Regression.<br/><br/>
+      <code>Python</code> <code>Time series</code> <code>Random Forest</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/G-Baloyi/SoyezJolie-Database-System"><b>🗄️ Soyez Jolie Database System</b></a><br/>
+      Third normal form SQL Server database with stored procedures, triggers, views, indexes and role-based access control.<br/><br/>
+      <code>SQL Server</code> <code>T-SQL</code> <code>3NF</code> <code>RBAC</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/G-Baloyi/BugTrack_Issue_Tracking_System"><b>🐞 BugTrack Issue Tracker</b></a> · <a href="https://g-baloyi.github.io/BugTrack_Issue_Tracking_System/">live demo</a><br/>
+      Responsive issue tracking web app with login, Kanban dashboard, filters, comments and dark mode.<br/><br/>
+      <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🏥 Hospital Record Management System</b><br/>
+      Layered C# application with AES encryption, role-based access control, audit logging, background threads and events.<br/><br/>
+      <code>C#</code> <code>.NET</code> <code>OOP</code> <code>AES</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://g-baloyi.github.io/My_Portfolio/"><b>🌐 Portfolio website</b></a><br/>
+      Case studies for every project, my experience and my CV in one place. The best next click.<br/><br/>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
     </td>
   </tr>
 </table>
 
 ---
 
-## GitHub Analytics
+## 💼 Experience and education
 
+| When | What |
+|---|---|
+| **Jul 2026 – Aug 2026** | **Data Visualization Intern**, Excelerate: cleaned a 5,733-row dataset, built an interactive Tableau dashboard, traced a data-quality anomaly to its source |
+| **Apr 2026 – May 2026** | **Project Lead, AI-Powered Data Analysis Internship**, Excelerate: led a cross-functional team of eight |
+| **2019 – 2025** | **Volunteer Tutor**: mathematics and sciences for learners in my community |
+| **2023 – present** | **Bachelor of Computing (Integrated Honours)**, Belgium Campus iTversity: Data Science and Business Intelligence |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Baloyi&theme=react-dark&hide_border=true&bg_color=0D1B2E&color=C8C0B0&line=14D4DA&point=F0A500&area=true&area_color=0C9B9F" alt="Activity Graph" width="100%"/>
-</p>
-
+**Certifications:** &nbsp; ![DataCamp](https://img.shields.io/badge/DataCamp-Data_Engineer-0B1F33?style=flat-square&logo=datacamp&logoColor=03EF62) ![DataCamp](https://img.shields.io/badge/DataCamp-Data_Analyst_Associate-0B1F33?style=flat-square&logo=datacamp&logoColor=03EF62) ![Deloitte](https://img.shields.io/badge/Deloitte-Data_Analytics_Simulation-0B1F33?style=flat-square) ![BCG X](https://img.shields.io/badge/BCG_X-Data_for_Decision_Makers-0B1F33?style=flat-square) ![Mastercard](https://img.shields.io/badge/Mastercard-Cybersecurity_Simulation-0B1F33?style=flat-square)
 
 ---
 
-## Connect With Me
+## 📊 GitHub analytics
 
 <p align="center">
-  <a href="https://linkedin.com/in/goitsemang-baloyi"><img src="https://img.shields.io/badge/LinkedIn-goitsemang--baloyi-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:goitsemangflorence@gmail.com"><img src="https://img.shields.io/badge/Email-goitsemangflorence@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
-
-Always open to collaboration, learning opportunities, and building meaningful data-driven solutions.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/G-Baloyi/G-Baloyi/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=G-Baloyi&show_icons=true&hide_border=true&bg_color=0B1F33&title_color=5EEAD4&text_color=CBD5E1&icon_color=2DD4BF&ring_color=2DD4BF&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Baloyi&layout=compact&hide_border=true&bg_color=0B1F33&title_color=5EEAD4&text_color=CBD5E1&langs_count=6" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14D4DA&height=100&section=footer"/>
+  <img src="https://streak-stats.demolab.com?user=G-Baloyi&hide_border=true&background=0B1F33&ring=2DD4BF&fire=F59E0B&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=5EEAD4&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Baloyi&theme=react-dark&hide_border=true&bg_color=0B1F33&color=CBD5E1&line=2DD4BF&point=F1F5F9&area=true&area_color=0F766E" alt="Contribution activity" width="100%"/>
+</p>
+
+---
+
+## 🤝 Let's connect
+
+I'm open to internships, workplace learning placements and collaborations in data science, business intelligence and machine learning.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/goitsemang-baloyi"><img src="https://img.shields.io/badge/LinkedIn-goitsemang--baloyi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:goitsemangflorence@gmail.com"><img src="https://img.shields.io/badge/Email-goitsemangflorence@gmail.com-0B1F33?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://g-baloyi.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-g--baloyi.github.io-0F766E?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/G-Baloyi/G-Baloyi/output/pacman-contribution-graph.svg" alt="Contribution graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:0B1F33&height=110&section=footer" alt=""/>
 </p>
